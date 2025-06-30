@@ -1,7 +1,9 @@
 site_name: MkDocs Material Documentation
-site_url: https://wiki.ibtida-tech.com
-
+repo_url: https://github.com/jcalo-git/mkdocs
+repo_name: jcalo-git/mkdocs
 theme:
+  icon:
+    repo: fontawesome/brands/github
   name: material
   palette:
    # Palette toggle for dark mode
