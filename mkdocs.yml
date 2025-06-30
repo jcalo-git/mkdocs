@@ -1,9 +1,15 @@
 site_name: MkDocs Material Documentation
 repo_url: https://github.com/jcalo-git/mkdocs
 repo_name: jcalo-git/mkdocs
+edit_uri: edit/main/docs/
+
 theme:
+  features:
+    - content.action.edit
   icon:
     repo: fontawesome/brands/github
+    edit: material/pencil 
+    view: material/eye
   name: material
   palette:
    # Palette toggle for dark mode
